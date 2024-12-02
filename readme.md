@@ -92,3 +92,7 @@ Press the `A` button to dump all contents. The `dsidump` folder on the root of y
 ```
 
 The files prefixed with `bios` can be used to extract blowfish keys. Locations of blowfish keys in each of the files can be found in [GBATek](https://problemkaputt.de/gbatek.htm#dsencryptionbygamecodeidcodekey1). The `-s`/`--startaddress` parameter should be set accordingly when executing `extractor.py`
+
+## Thanks and references
+- Martin Korth, for his [GBATek reference document](http://problemkaputt.de/gbatek-index.htm).
+- [Arisotura](https://github.com/Arisotura), for [dsibiosdumper](https://github.com/Arisotura/dsibiosdumper).
