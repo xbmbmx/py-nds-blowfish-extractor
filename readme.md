@@ -80,7 +80,7 @@ Once launched, you should be greeted by the main screen for `dsibiosdumper.nds`.
 
 <img alt="DSi Dumper Menu Image" src="./DSi_dumper_menu.png" width="400"/>
 
-Press the `A` button to dump all contents. The `dsidump` folder on the root of your SD card should now contain the following 5 files:
+Press the `A` button to dump all contents. The `dsidump` folder on the root of your SD card should now contain the following 6 files:
 
 ```
 - bios7.bin
